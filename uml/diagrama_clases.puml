@@ -1,0 +1,3 @@
+@startuml diagrama de secuencia 1
+Bob -> Alice : hello
+@enduml
